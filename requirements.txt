@@ -1,0 +1,6 @@
+streamlit
+pandas
+tensorflow
+google-cloud-aiplatform
+protobuf
+matplotlib
